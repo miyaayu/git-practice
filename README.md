@@ -5,4 +5,4 @@ conflictブランチで変更
 conflict-remote上で更新（コンフリクト発生）
 conflictブランチで変更
 コンフリクト発生  
-rebase-practiceで更新（rebase用）
+mainで更新（rebaseコンフリクト用）
