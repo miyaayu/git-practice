@@ -7,4 +7,4 @@ conflictブランチで変更
 コンフリクト発生  
 rebase-practiceで更新（rebaseコンフリクト用）
 rebase用
-stash練習用
+stash練習用　トラック済み
